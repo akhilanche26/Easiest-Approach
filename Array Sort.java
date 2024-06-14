@@ -1,3 +1,4 @@
+//This code sorts array based on comparator
 import java.util.*;
 class MyComp implements Comparator<Integer>{
     public int compare(Integer i1, Integer i2){
